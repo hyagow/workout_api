@@ -1,6 +1,6 @@
 # Workout in FastAPI
 ### Quem é o FastAPi?
-Framework FastAPI: alta performance, fácil de aprender e de desenvolver, pronto para produção.
+- Framework FastAPI: alta performance, fácil de aprender e de desenvolver, pronto para produção.
 O FastAPI é um framework web moderno e rápido, voltado para a construção de APIs com Python 3.6 ou superior, baseado nos type hints nativos da linguagem.
 
 ### Async:
